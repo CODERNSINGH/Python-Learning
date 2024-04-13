@@ -11,3 +11,11 @@ print("jingle bell x 2 on the way")
 print("jingle bell x 2 on the way")
 print("jingle bell x 2 on the way")
 print("jingle bell x 2 on the way")
+# Nother Way
+print(
+'''HI this is line of code which is going to print
+HI this is line of code which is going to print
+HI this is line of code which is going to print
+HI this is line of code which is going to print
+HI this is line of code which is going to print
+HI this is line of code which is going to print''')
