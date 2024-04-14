@@ -21,7 +21,7 @@ The 100 Days of Coding Challenge involves coding for at least 4-5 hours of Codin
 
 ## Start Date
 
-I officially started the 100 Days of Coding Challenge on 13-April-2024.
+I officially started the 100 Days of Coding Challenge on 15-April-2024.
 
 ## Progress Tracking
 
