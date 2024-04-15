@@ -1,4 +1,4 @@
-#Today we are going to learn Vsriable and Data Types
+#Today we are going to learn Variable and Data Types
 
 
 
