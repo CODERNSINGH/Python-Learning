@@ -16,4 +16,5 @@ print("hi my name is Narendra Singh \n and i am software engineer")
 print("narendra" , 3,3) #Multilines 
 
 print("he ther i am narendra",3,3,3, sep="~" ) 
+print("he ther i am narendra",3,3,3, end=" this is end of this lecture" ) 
 
