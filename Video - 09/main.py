@@ -9,7 +9,7 @@ print(a+b)
 # here Is use of type cast this know as Explicit Type Case Jo Hamene use kita hai
 print(int(a)+ int(b))
 
-
+# and this called Implicit jo python automatically use kar raha hai
 x = 0.223
 y = 7.665
 print(x+y)
