@@ -1,4 +1,4 @@
-# Now we Going to learn About for loop topic Here we Go
+# Now we Going to learn About for loop topic 
 
 name = 'Narenar singh'
 for anything in name:
